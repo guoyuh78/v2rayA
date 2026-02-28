@@ -1,5 +1,5 @@
 <template>
-  <div class="modal-card modal-setting" style="max-width: 800px; margin: auto">
+  <div class="modal-card modal-setting" style="max-width: 800px; height: 780px; margin: auto">
     <header class="modal-card-head">
       <p class="modal-card-title">{{ $t("common.setting") }}</p>
     </header>
